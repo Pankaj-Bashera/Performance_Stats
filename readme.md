@@ -2,7 +2,7 @@
 
 ## 📌 Project URL
 
-https://github.com/Pankaj-Bashera/Performance_Stats
+https://roadmap.sh/projects/server-stats
 
 ---
 
